@@ -9,7 +9,7 @@
 title: Andrew Berns' Portfolio
 description: '' # write a nice description for your blog
 baseurl: 'adueck.github.io/cayman-blog' # the subpath of your site, e.g. /blog
-url: 'https://adberns.github.io' # the base hostname & protocol for your site http://www.example.com
+url: 'https://adueck.github.io' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'dont_have_one'
 
